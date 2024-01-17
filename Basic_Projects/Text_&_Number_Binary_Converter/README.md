@@ -14,3 +14,5 @@ user_input = input("Enter an alphabet or number: ")
 binary_result = convert_to_binary(user_input)
 print(f"Binary representation: {binary_result}")
 ```
+
+If you find this project interesting, feel free to use and modify it for integration into more complex programs.
