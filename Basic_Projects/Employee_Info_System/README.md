@@ -54,5 +54,3 @@ try:
 except Exception as error:
 	print(f"Error occured: {error}")
 ```
-
-Feel free to customize the attributes and use the `Employee` class as a foundation for more complex projects or as a learning resource for object-oriented programming in Python.
