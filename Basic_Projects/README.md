@@ -2,6 +2,6 @@
 
 ## HERE IS LIST OF BASIC PROJECTS:
 
-1) Text_&_Number_Binary_Converter [(Click here to see this project)](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Text_&_Number_Binary_Converter)
+1) Text_&_Number_Binary_Converter [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Text_&_Number_Binary_Converter)
 
-2) Employee_Info_System [(Click here to see this project)](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Employee_Info_System)
+2) Employee_Info_System [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Employee_Info_System)
