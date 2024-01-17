@@ -54,3 +54,5 @@ try:
 except Exception as error:
 	print(f"Error occured: {error}")
 ```
+
+If you find this project interesting, feel free to use and modify it for integration into more complex programs.
