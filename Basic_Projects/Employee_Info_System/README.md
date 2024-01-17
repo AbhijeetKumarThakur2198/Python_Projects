@@ -1,4 +1,5 @@
 # MY PRACTICE PROJECT 2 USING OBJECT ORIENTATION
+
 This is a simple practice project illustrating the use of object-oriented programming in Python. The project defines a class `Employee` with attributes such as `first_name`, `middle_name`, `last_name`, `age`, `gender`, `currency`, `salary`, `address`, `email`, and `full_name`. The class also includes a method `report()` to generate a summary of the employee's details.
 
 ## FULL CODE:
