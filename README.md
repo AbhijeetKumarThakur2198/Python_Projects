@@ -5,7 +5,8 @@ I've organized all my Python projects within a single repository for a cohesive 
 
 I created this repository to showcase my Python projects, organized into two main folders.
 
-## Basic_Projects
+## Basic_Projects 
+[(Click here to see the basic projects)](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Employee_Info_System)
 
 Contains practice codes developed during my learning phase. Feel free to ignore these as they are foundational.
 
