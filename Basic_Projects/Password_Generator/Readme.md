@@ -16,7 +16,7 @@ This Python script provides a simple command-line interface to generate and save
 - `password_length = int(input("Enter the desired length of the password: "))`: Prompts the user for the desired password length.
 - Generates and saves a password using the functions defined above.
 
-## Full code
+## Full code:
 
 ```python
 # MY PRACTICE PROJECT 3
