@@ -46,5 +46,5 @@ for _ in range(5):
     additional_password = generate_password(password_length)
     save_password(additional_password)
 ```
-
+If you find this project interesting, feel free to use and modify it for integration into more complex programs.
 
