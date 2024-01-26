@@ -1,4 +1,4 @@
-# Password Generator
+# MY PRACTICE PROJECT 3
 
 This Python script provides a simple command-line interface to generate and save secure passwords. It utilizes the `random` and `string` modules for password generation.
 
