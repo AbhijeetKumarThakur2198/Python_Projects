@@ -2,7 +2,7 @@
 
 This is a simple practice project showcasing procedural programming in Python. The project includes a function `convert_to_binary` that takes an input (alphabet or number) and converts it into its binary representation using the ASCII values of individual characters.
 
-## FULL CODE:
+## Full code:
 
 ```python
 # MY PRACTICE PROJECT 1 USING PROCEDURAL PROGRAMMING
