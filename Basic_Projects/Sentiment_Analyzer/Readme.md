@@ -80,3 +80,5 @@ text_to_analyze = "I love using NLTK for sentiment analysis!"
 result = analyze_sentiment(text_to_analyze)
 print(f"Sentiment: {result}")
 ```
+
+If you find this project interesting, feel free to use and modify it for integration into more complex programs.
