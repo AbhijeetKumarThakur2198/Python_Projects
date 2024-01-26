@@ -19,6 +19,7 @@ This Python script provides a simple command-line interface to generate and save
 ## Full code
 
 ```python
+# MY PRACTICE PROJECT 3
 # IMPORT RANDOM AND STRING MODULES FOR PASSWORD GENERATION
 import random
 import string
