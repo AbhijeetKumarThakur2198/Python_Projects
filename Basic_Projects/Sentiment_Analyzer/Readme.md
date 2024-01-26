@@ -1,4 +1,4 @@
-# Sentiment Analysis with NLTK
+# MY PRACTICE PROJECT 4
 
 This Python script utilizes the Natural Language Toolkit (NLTK) library to perform sentiment analysis on text. The SentimentIntensityAnalyzer from NLTK is employed to evaluate the sentiment of the provided text.
 
