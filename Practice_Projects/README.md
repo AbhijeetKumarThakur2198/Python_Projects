@@ -6,6 +6,6 @@
 
 2) Employee_Info_System [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Employee_Info_System)
 
-3) Password_Generator [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/blob/main/Practice_Projects/Password_Generator/Readme.md)
+3) Password_Generator [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Password_Generator)
 
 4) Sentiment_Analyzer [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Sentiment_Analyzer)
