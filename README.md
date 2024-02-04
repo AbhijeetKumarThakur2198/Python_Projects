@@ -14,4 +14,4 @@ Contains practice codes developed during my learning phase. Feel free to ignore 
 
 Showcases advanced projects demonstrating my skills and abilities in Python.
 
-! Coming Soon !
+[Click here to see main projects](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Main_Projects)
