@@ -1,6 +1,6 @@
-## I have uploaded my foundational practice projects to this folder, reflecting the skills acquired during my training.
+## These are my foundational practice projects to this folder, reflecting the skills acquired during my training.
 
-## HERE IS LIST OF BASIC PROJECTS:
+## HERE IS LIST OF Practice PROJECTS:
 
 1) Text_&_Number_Binary_Converter [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Basic_Projects/Text_&_Number_Binary_Converter)
 
