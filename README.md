@@ -23,6 +23,9 @@ If you want to download my all python projects: [Click here](https://github.com/
 
 I want to express my heartfelt gratitude for collective support in my Python learning journey. The internet, various websites, YouTube videos, and countless documents have been invaluable resources. I appreciate everyone who has played a part in my growth. Due to the diverse range of these resources, I may not be able to list them all, but their impact is truly acknowledged and deeply appreciated. Thanks all of them!
 
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
