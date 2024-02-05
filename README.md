@@ -10,7 +10,7 @@ I created this repository to showcase my Python projects, organized into two mai
 Contains practice codes developed during my learning phase. Feel free to ignore these as they are foundational.
 
 [Click here to see the practice projects](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects)
-## Advanced Projects
+## Main Projects
 
 Showcases advanced projects demonstrating my skills and abilities in Python.
 
