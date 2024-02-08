@@ -8,8 +8,9 @@ This project provides a straightforward script for fine-tuning the GPT-2 languag
 - **Modules:** Install the necessary modules by running:
 
 ## Usage
-1. **Copy the project code **
-   Save as Fine_Tune_GPT2_Model.py or any other relevant name.
+1. **Copy the project code**
+
+Save as Fine_Tune_GPT2_Model.py or any other relevant name.
 # Full Code:
 ```python
 # PLEASE DON'T CHANGE THE CODE UNLESS YOU'RE FAMILIAR WITH PROGRAMMING. IT MIGHT CAUSE ERRORS OTHERWISE.
