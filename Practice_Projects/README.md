@@ -9,3 +9,5 @@
 3) Password Generator [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Password_Generator)
 
 4) Sentiment Analyzer [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Sentiment_Analyzer)
+
+5) Quiz Game With Score [Click here to see this project](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Practice_Projects/Quiz_Game_With_Score)
