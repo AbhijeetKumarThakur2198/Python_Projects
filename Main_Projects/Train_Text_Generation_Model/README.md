@@ -48,17 +48,6 @@ except Exception as e:
     pass
 
 try:
-    import transformers # TRANSFORMERS ONLY FOR MODEL CONVERSATION (OPTIONAL)
-    from transformers import GPT2Config, AutoModelForCausalLM, AutoTokenizer # IN THIS CODE I USE GPT2 CONFIG IF YOU WANT TO CONVERT YOUR TRAINED MODEL IN YOUR OWN CONFIG OR FORMAT PLEASE DO MANNUALY
-    print("transformers found!")
-except ModuleNotFoundError:
-    print("transformer not found; you will not able to convert pth to hf model!")
-    pass
-except Exception as e:
-    print(f"Error: {e}")
-    pass
-
-try:
     import torch # NECCESARY FOR TRAINING MODEL
     import torch.nn as nn
     from torch.nn import functional as F
