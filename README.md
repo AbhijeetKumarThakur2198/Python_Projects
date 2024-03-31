@@ -22,7 +22,7 @@ The purpose of this repository is to exhibit my proficiency in Python through a 
 8) (Brute force attack) Crack Zip File Password Tool(Without third-party module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Crack_Zip_File_Password_Tool)
 
 ## To Download Projects
-If you want to download my all python projects: [Click here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/archive/refs/heads/main.zip)
+If you want to download my all python projects: [Click Here To Download](https://github.com/AbhijeetKumarThakur2198/Python_Projects/archive/refs/heads/main.zip)
 
 ## Gratitude for Learning Journey in Python
 I want to express my heartfelt gratitude for collective support in my Python learning journey. The internet, various websites, YouTube videos, and countless documents have been invaluable resources. I appreciate everyone who has played a part in my growth. Due to the diverse range of these resources, I may not be able to list them all, but their impact is truly acknowledged and deeply appreciated. Thanks all of them!
