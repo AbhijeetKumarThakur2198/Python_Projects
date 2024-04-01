@@ -557,4 +557,4 @@ if __name__ == "__main__":
 ```
 
 ## License
-This project is under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is under the [MIT License](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/LICENSE.md) - see the [LICENSE.md](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/LICENSE.md) file for details.
