@@ -1,6 +1,6 @@
 # Fine-Tune GPT2 Hugging Face Model
 
-## Overview:
+## Overview
 In this project, we aim to refine the Hugging Face GPT-2 model through fine-tuning. This strategy will facilitate the training of the GPT-2 model to recognize and generate text based on specific patterns.
 
 The process involves selecting a pre-trained GPT-2 model from the Hugging Face library and adjusting its parameters to adapt it to the desired pattern recognition task. By fine-tuning the model on a specific dataset or corpus, we can enhance its ability to generate coherent and contextually relevant text within the defined pattern.
@@ -128,7 +128,7 @@ seed_text = "Once upon a time "  # SET TEXT FOR GENERATION
 Fine_Tuned_Model_Path = "/content/"  # SET PATH OF YOUR FINE-TUNED MODEL
 ############################
 
-# IMPORT NECCESARY MODULE
+# IMPORT NECCESARY MODULES
 try:
     import torch
 except ModuleNotFoundError:
