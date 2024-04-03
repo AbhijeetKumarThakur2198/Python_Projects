@@ -11,7 +11,7 @@ The purpose of this repository is to exhibit my proficiency in Python through a 
 
 3) Fine-Tune Hugging Face GPT2 Model(With Pytorch & Transformers module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Fine-Tune_Hugging_Face_GPT2_Model)
 
-4) Sentiment Analysis Tool(With nltk module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Sentiment_Analysis) 
+4) Sentiment Analysis Tool(With nltk module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Sentiment_Analysis_Tool) 
 
 5) Custom (BPE)Tokenizer(Without module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Custom_BPE_Tokenizer)
 
