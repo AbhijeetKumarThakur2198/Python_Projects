@@ -5,9 +5,9 @@ I've consolidated all my Python projects into a single repository to establish a
 The purpose of this repository is to exhibit my proficiency in Python through a curated collection of projects, demonstrating both my technical capabilities and problem-solving skills.
 
 ## Projects List
-1) Recurrent Neural Network Full From Scratch(Without third-party module): **! Under Development !**
+1) Recurrent Neural Network Full From Scratch(Without third-party module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Recurrent_Neural_Network_Full_From_Scratch)
 
-2) Astro: Custom Innovative Text Generation Model Empowered by Transformer Architecture(With Pytorch module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Training_Text_Generation_Model_Full_From_Scratch)
+2) Astro: Custom Innovative Text Generation Model Empowered by Transformer Architecture(With Pytorch module): **! Under Development !**
 
 3) Fine-Tune Hugging Face GPT2 Model(With Pytorch & Transformers module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Fine-Tune_Hugging_Face_GPT2_Model)
 
