@@ -72,7 +72,7 @@ for i in bar(range(1, 10000), status=True, symbol="#", color=True):
 ```
 
 ## How To Report Problems
-If you encounter any errors or bugs in the code, please create an issue [here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/issues).
+If you encounter any errors or bugs in the code, please create an issue.
 
 ## License
 This project is under the [MIT License](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/LICENSE.md) - see the [LICENSE.md](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/LICENSE.md) file for details.
