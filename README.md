@@ -13,7 +13,7 @@ The purpose of this repository is to exhibit my proficiency in Python through a 
 
 4) Sentiment Analysis Tool(With nltk module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Sentiment_Analysis) 
 
-5) Custom (BPE)Tokenizer(Without module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Custom_(BPE)Tokenizer)
+5) Custom (BPE)Tokenizer(Without module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Custom_BPE_Tokenizer)
 
 6) Custom Progress Bar(Without module): [Click Here To See](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Custom_Progress_Bar)
 
