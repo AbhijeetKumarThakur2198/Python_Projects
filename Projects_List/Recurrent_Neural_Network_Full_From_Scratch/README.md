@@ -192,7 +192,7 @@ class RecurrentNeuralNetwork:
 ```
 
 ## How To Use This Project:
-If you wish to use this project, you can do so via **Google Colab** [here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Recurrent_Neural_Network_Full_From_Scratch/RecurrentNeuralNetworkFullFromScratch.ipyb), or manually on your environment by copying and running the code provided below.
+If you wish to use this project, you can do so via **Google Colab** [here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Recurrent_Neural_Network_Full_From_Scratch/RecurrentNeuralNetworkFullFromScratch.ipynb), or manually on your environment by copying and running the code provided below.
 
 ## Train Code
 Here is the training code utilized either to train the model or to generate RNN weights from scratch:
