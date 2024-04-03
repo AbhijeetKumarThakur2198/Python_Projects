@@ -12,7 +12,7 @@ Through this approach, we can harness the power of transfer learning to leverage
 Let's begin by diving into it! Firstly, we import essential modules such as **Transformers**, **PyTorch**, and **Accelerate** to empower the fine-tuning process. Then, we utilize the **Trainer()** function from the transformers library to fine-tune the model. For further elaboration, let's delve into the code.
 
 ## How To Use This Project
-If you wish to use this project, you can do so via **Google Colab** [here](https://colab.research.google.com/github/AbhijeetKumarThakur2198/Python_Projects/blob/main/Projects_List/Fine-Tune_Hugging_Face_GPT2_Model/FineTuneHuggingFaceGPT2Model.ipynb), or manually on your environment by copying and running the code provided below.
+If you wish to use this project, you can do so via **Google Colab** [Here](https://colab.research.google.com/github/AbhijeetKumarThakur2198/Python_Projects/blob/main/Projects_List/Fine-Tune_Hugging_Face_GPT2_Model/FineTuneHuggingFaceGPT2Model.ipynb), or manually on your environment by copying and running the code provided below.
 
 ## Fine-Tune Code
 Here is the Fine-Tune code:
