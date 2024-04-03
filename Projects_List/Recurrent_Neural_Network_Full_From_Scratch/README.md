@@ -192,7 +192,7 @@ class RecurrentNeuralNetwork:
 ```
 
 ## How To Use This Project:
-If you wish to use this project, you can do so via **Google Colab** [here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/Recurrent_Neural_Network_Full_From_Scratch/RecurrentNeuralNetworkFullFromScratch.ipynb), or manually on your environment by copying and running the code provided below.
+If you wish to use this project, you can do so via **Google Colab** [Here](https://colab.research.google.com/github/AbhijeetKumarThakur2198/Python_Projects/blob/main/Projects_List/Recurrent_Neural_Network_Full_From_Scratch/RecurrentNeuralNetworkFullFromScratch.ipynb), or manually on your environment by copying and running the code provided below.
 
 ## Train Code
 Here is the training code utilized either to train the model or to generate RNN weights from scratch:
@@ -568,7 +568,7 @@ if __name__ == "__main__":
 ```
 
 ## How To Report Problems
-If you encounter any errors or bugs in the code, please create an issue [here](https://github.com/AbhijeetKumarThakur2198/Python_Projects/issues).
+If you encounter any errors or bugs in the code, please create an issue.
 
 ## License
 This project is under the [MIT License](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/LICENSE.md) - see the [LICENSE.md](https://github.com/AbhijeetKumarThakur2198/Python_Projects/tree/main/Projects_List/LICENSE.md) file for details.
