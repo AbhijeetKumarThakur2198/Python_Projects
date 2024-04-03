@@ -86,10 +86,11 @@ If you wish to use this project, you can do so manually in your environment by c
 ## Full Code
 Here is the full code to crack an encrypted zip file:
 ```python
-# DIRECT METHOD
+#####|| Configuration ||#####
 zip_file = "YOUR_FILE.zip"  # REPLACE WITH YOUR ZIP FILE PATH
 max_length = None  # SET None FOR ENDLESS LENGTH OR REPLACE WITH NUMBER LIKE 10, 20, 30 ETC
 get_data = 4  # SET 1 FOR DIGITS ONLY, 2 FOR STRING, 3 FOR PUNCTUATION, 4 FOR ALL OR WRITE DATA MANUALLY
+######################
 
 # IMPORT PRE-BUILT MODULES
 try:		
